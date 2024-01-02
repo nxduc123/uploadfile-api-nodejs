@@ -1,0 +1,40 @@
+[2023-12-29 10:12:06] [[33mwarn[39m] Warning log
+[2023-12-29 10:12:06] [[32minfo[39m] Uploaded the file successfully: ffmpeg.dll
+[2023-12-29 10:17:25] [[31merror[39m] Error: File size cannot be larger than 50MB!:. MulterError: File too large
+    at upload (D:\express-file-upload\src\controller\file.controller.js:22:20)
+[2023-12-29 10:18:55] [[31merror[39m] MulterError: File too large
+    at abortWithCode (D:\express-file-upload\node_modules\multer\lib\make-middleware.js:71:22)
+    at FileStream.<anonymous> (D:\express-file-upload\node_modules\multer\lib\make-middleware.js:134:11)
+    at FileStream.emit (node:events:520:28)
+    at SBMH.ssCb [as _cb] (D:\express-file-upload\node_modules\busboy\lib\types\multipart.js:479:32)
+    at feed (D:\express-file-upload\node_modules\streamsearch\lib\sbmh.js:248:10)
+    at SBMH.push (D:\express-file-upload\node_modules\streamsearch\lib\sbmh.js:104:16)
+    at Multipart._write (D:\express-file-upload\node_modules\busboy\lib\types\multipart.js:567:19)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at Multipart.Writable.write (node:internal/streams/writable:334:10)
+[2023-12-29 10:18:55] [[31merror[39m] Error: File size cannot be larger than 50MB!:. MulterError: File too large
+    at upload (D:\express-file-upload\src\controller\file.controller.js:22:20)
+[2023-12-29 10:21:14] [[33mwarn[39m] Warning log
+[2023-12-29 10:21:14] [[32minfo[39m] Uploaded the file successfully: libEGL.dll
+[2023-12-29 14:16:41] [[32minfo[39m] Database is connected successfully !
+[2023-12-29 14:18:00] [[32minfo[39m] Database is connected successfully !
+[2023-12-29 14:19:26] [[32minfo[39m] Database is connected successfully !
+[2023-12-29 14:21:17] [[32minfo[39m] Database is connected successfully !
+[2023-12-29 14:22:29] [[32minfo[39m] Database is connected successfully !
+[2023-12-29 14:23:26] [[32minfo[39m] Database is connected successfully !
+[2023-12-29 14:24:04] [[32minfo[39m] Database is connected successfully !
+[2023-12-29 14:24:08] [[32minfo[39m] Database is connected successfully !
+[2023-12-29 14:24:55] [[32minfo[39m] Database is connected successfully !
+[2023-12-29 14:25:34] [[32minfo[39m] Database is connected successfully !
+[2023-12-29 14:26:00] [[32minfo[39m] Database is connected successfully !
+[2023-12-29 14:27:43] [[32minfo[39m] Database is connected successfully !
+[2023-12-29 14:29:14] [[32minfo[39m] Database is connected successfully !
+[2023-12-29 14:36:33] [[32minfo[39m] Database is connected successfully !
+[2023-12-29 14:38:00] [[32minfo[39m] Database is connected successfully !
+[2023-12-29 14:39:03] [[32minfo[39m] Database is connected successfully !
+[2023-12-29 14:43:03] [[32minfo[39m] Database is connected successfully !
+[2023-12-29 14:45:34] [[32minfo[39m] Database is connected successfully !
+[2023-12-29 14:46:35] [[32minfo[39m] Database is connected successfully !
+[2023-12-29 14:50:49] [[32minfo[39m] Database is connected successfully !
+[2023-12-29 14:50:54] [[32minfo[39m] Database is connected successfully !
